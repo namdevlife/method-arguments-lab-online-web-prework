@@ -1,3 +1,3 @@
-def introduction(name);
-  puts "Hi, my nane is #{name}.";
+def introduction(name)
+  puts "Hi, my nane is #{name}."
 end
